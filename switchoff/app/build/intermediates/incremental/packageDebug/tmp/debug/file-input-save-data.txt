@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Sun Dec 16 22:45:02 EST 2018
+1.base=/Users/danny/AndroidStudioProjects/switchoff/app/build/intermediates/transforms/dexMerger/debug/0
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=DEX
+0.path=xposed_init
+0.set=ASSET
+0.base=/Users/danny/AndroidStudioProjects/switchoff/app/build/intermediates/merged_assets/debug/mergeDebugAssets/out
+1.path=classes.dex
