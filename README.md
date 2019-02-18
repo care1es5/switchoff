@@ -1,2 +1,2 @@
 # switchoff
-Simple Root Detection for Gemini App
+Xposed Module to Bypass Gemini Root Detection
